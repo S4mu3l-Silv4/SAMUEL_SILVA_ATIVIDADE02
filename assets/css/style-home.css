@@ -1,12 +1,3 @@
-@charset "UTF-8";
-
-/* Reset */
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
 /* Variáveis */
 :root {
     --branco: #ffffff;
