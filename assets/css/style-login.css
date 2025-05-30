@@ -1,18 +1,18 @@
 /* Variáveis */
-:root {
-    --branco: #ffffff;
-    --cinza: #808080;
-    --preto: #000000;
-}
+    :root {
+        --branco: #ffffff;
+        --cinza: #808080;
+        --preto: #000000;
+    }
 
 /* Versão desktop */
-main {
-    color: var(--branco);
-}
+    main {
+        color: var(--branco);
+    }
 
-form {
-    margin-top: 300px;
-    position: relative;
-    text-align: center;
-    top: 50%;
-}
+    form {
+        margin-top: 300px;
+        position: relative;
+        text-align: center;
+        top: 50%;
+    }

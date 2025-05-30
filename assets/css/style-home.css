@@ -1,32 +1,32 @@
 /* Variáveis */
-:root {
-    --branco: #ffffff;
-    --cinza: #808080;
-    --preto: #000000;
-}
+    :root {
+        --branco: #ffffff;
+        --cinza: #808080;
+        --preto: #000000;
+    }
 
 /* Versão desktop */
-main {
-    color: var(--branco);
-    height: 1200px;
-}
+    main {
+        color: var(--branco);
+        height: 1200px;
+    }
 
-.imagem-1 {
-    height: 200px;
-    margin-top: 200px;
-    width: 180px;
-}
+    .imagem-1 {
+        height: 200px;
+        margin-top: 200px;
+        width: 180px;
+    }
 
-.imagem-2 {
-    border-radius: 15px;
-    height: 900px;
-    float: right;
-    margin-top: 200px;
-    width: 320px;
-}
+    .imagem-2 {
+        border-radius: 15px;
+        height: 900px;
+        float: right;
+        margin-top: 200px;
+        width: 320px;
+    }
 
-article {
-    background-color: var(--cinza);
-    color: var(--branco);
-    padding: 30px;
-}
+    article {
+        background-color: var(--cinza);
+        color: var(--branco);
+        padding: 30px;
+    }
