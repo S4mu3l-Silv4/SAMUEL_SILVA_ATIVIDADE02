@@ -1,6 +1,6 @@
 # SAMUEL_SILVA_ATIVIDADE02:
 
-  Este demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em HTML, CSS e JavaScript.
+  Esta demanda foi desenvolvida como um projeto avaliativo para a Praxis - Empresa Júnior, objetivando praticar e demonstrar as minhas habilidades em HTML e CSS.
   <br>
   <br>
 ## Site no ar:
