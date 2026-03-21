@@ -40,20 +40,3 @@
         color: var(--branco);
         text-decoration: none;
     }
-
-    footer {
-        background-color: var(--cinza);
-        bottom: 0;
-        color: var(--branco);
-        font-size: 1.1em;
-        letter-spacing: 1px;
-        padding: 5px;
-        position: fixed;
-        text-align: center;
-        width: 100%;
-    }
-
-    footer a {
-        color: var(--branco);
-        text-decoration: none;
-    }
